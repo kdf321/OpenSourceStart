@@ -7,4 +7,8 @@ public class Library {
     public boolean someLibraryMethod() {
         return true;
     }
+
+    public String getString() {
+        return "안 헬로우 월드!";
+    }
 }
